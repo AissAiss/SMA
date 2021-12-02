@@ -1,6 +1,6 @@
 # SMA
 
-Projet universitaire : Conception et implémentation d'un système multi-agents durant l'unité d'enseignement "[HAI716I](https://sites.google.com/view/hai716i/home) - Programmation orientée agents" enseignée par madame [CROITORU Madalina](http://www.lirmm.fr/~croitoru/). L'ensemble des fichiers de codes est fourni dans le dossier joint avec ce document et sont exécutables avec [python](https://www.python.org/).
+Projet Universitaire : Conception et implémentation d'un système multi-agents durant l'unité d'enseignement "[HAI716I](https://sites.google.com/view/hai716i/home) - Programmation orientée agents" enseignée par madame [CROITORU Madalina](http://www.lirmm.fr/~croitoru/). L'ensemble des fichiers de codes est fourni dans le dossier joint avec ce document et sont exécutables avec [python](https://www.python.org/).
 
 <p align="center">
   <img src="rddoc/circleM.png" >
@@ -17,3 +17,6 @@ Système multi-agents d'exploration aveugle de labyrinthe. Le dossier "SMA_no_me
 ```shell 
 (base) C:\Users\AissAiss\SMA\SMA_no_memory>python main.py
 ```
+
+Université Montpellier 2
+Master IASD
