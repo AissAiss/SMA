@@ -2,5 +2,5 @@
 
 
 <p align="center">
-  <img src="rddoc/circleM.png" width=620 height=469>
+  <img src="rddoc/circleM.png" >
 </p>
