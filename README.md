@@ -17,6 +17,3 @@ Système multi-agents d'exploration aveugle de labyrinthe. Le dossier "SMA_no_me
 ```shell 
 (base) C:\Users\AissAiss\SMA\SMA_no_memory>python main.py
 ```
-
-Université Montpellier 2
-Master IASD
